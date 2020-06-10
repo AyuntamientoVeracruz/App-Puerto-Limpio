@@ -16,7 +16,7 @@ Veracruz Puerto Limpio es una aplicación móvil que fue desarrollada mediante e
      - [Para iniciar sesión](#Para-iniciar-sesión)
      - [Si olvidas tu contraseña](#Si-olvidas-tu-contraseña)
    - [Guía de instalación para desarrollador](#Guía-de-instalación-para-desarrollador)
-	   - [Pre requisitos](#[Pre-requisitos])
+	   - [Pre requisitos](#Pre-requisitos)
 	   - [Instalación]("#Instalación")
 	   - [Uso]("#Uso")
 	   - [Cómo contribuir]("#Cómo-contribuir")
