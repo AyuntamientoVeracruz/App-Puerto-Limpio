@@ -15,7 +15,11 @@ Veracruz Puerto Limpio es una aplicación móvil que fue desarrollada mediante e
      - [Para activar o desactivar notificaciones](#Para-activar-o-desactivar-notificaciones)
      - [Para iniciar sesión](#Para-iniciar-sesión)
      - [Si olvidas tu contraseña](#Si-olvidas-tu-contraseña)
-     
+   - [Guía de instalación para desarrollador](#Guía-de-instalación-para-desarrollador)
+	   - [Pre requisitos](#[Pre-requisitos])
+	   - [Instalación]("#Instalación")
+	   - [Uso]("#Uso")
+	   - [Cómo contribuir]("#Cómo-contribuir")
    - [Autores](#Autores)
      
      
@@ -143,7 +147,7 @@ Tu aplicación también cuenta con un área de recomendaciones, en donde podrás
  
 ## Guía de instalación para desarrollador
 ---
-#### Pre-requisitos
+#### Pre requisitos
 + Instalación de Node.js
      Necesitamos descargar Node.Js desde su pagina oficial  [puedes descargarlo aquí](https://nodejs.org/es/download.
 
