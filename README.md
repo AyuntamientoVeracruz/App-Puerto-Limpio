@@ -19,7 +19,7 @@ Veracruz Puerto Limpio es una aplicación móvil que fue desarrollada mediante e
    	-[Pre-requisitos](#Pre-requisitos)
 	-[Instalación]("#Instalación")
    	-[Uso]("#Uso")
-   	-[Cómo contribuir]("#Cómo contribuir")
+   	-[Cómo contribuir]("#Cómo-contribuir")
    - [Autores](#Autores)
      
      
